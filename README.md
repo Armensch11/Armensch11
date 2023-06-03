@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redux-Saga**
 
-- 💬 Ask me about **react, redux-toolkit, css, html, MUI**
+- 💬 Ask me about **react, redux-toolkit, ethers.js, solidity, css, html, MUI**
 
 - 📫 How to reach me **armenschk@gmail.com**
 
